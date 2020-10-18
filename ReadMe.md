@@ -1,4 +1,4 @@
-## Passwword Generator
+# Passwword Generator
 For this homework assignment, I was tasked with creating a random password generator that will create a password based off of the users choices.
 
 ## User Story
@@ -28,3 +28,12 @@ THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
+
+## Example ScreenShot of 8 character Password 
+
+![example screenshot](./pwGenEx.JPG)
+
+
+## Link to Deployed Application
+
+[Click Here!](https://kaileesmith.github.io/PasswordGenerator/)
